@@ -16,3 +16,5 @@ git pull origin master    // 最好先 pull 一下
 
 git push origin master   // 推送到服务器
 git pull origin master    // 拉去最新的代码
+
+本人到此一游
